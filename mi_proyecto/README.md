@@ -15,5 +15,6 @@ Para ejecutar este trabajo se siguieron los siguientes pasos claves:
 ## Tabla de contenido 
 | docs| 
 |--------------|
-|  |
-|  |
+|[repositorio_local.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/repositorio_local.md)|
+|[repositorio_remoto.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/repositorio_remoto.md)|
+|[uso_consola.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/uso_consola.md)|
