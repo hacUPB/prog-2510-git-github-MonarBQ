@@ -1,0 +1,16 @@
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+*.bak
+*.o
+*.out
+*.obj
+*.exe
+*.class
+*.dll
+*.so
+*.dylib
+logs/
+*.log
+*.sqlite
+*.db
