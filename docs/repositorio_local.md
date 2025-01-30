@@ -9,21 +9,31 @@ Es un espacio donde se almacenan los archivos de un proyecto y su historial de c
 ### ¿Como se crea un repositorio local?
 Para crear un repositorio local con Git lo primero que hacemos es configurar Git con tu nombre de de usurio y tu correo, con los siguientes codigos:
 
-- git config --global user.name (Tu nombre)
-- git config --global user.email (Tu correo)
+```git config --global user.name``` 
+
+
+```git config --global user.email```
 
 Lo siguiente es crear una carpeta para guardar tu repositorio, dentro de esa carpeta creas un directorio con el nombre que le desees poner a tu repositorio.
 Despues te vas a ubicar dentro del repositorio y ejecutas el siguiente comando 
 
-- git init
+```git init```
 
 Con esto ya tendras tu repositorio creado y podras empezar a guardar tus cambios, enviar commits y ver el estado del repositorio con algunos codigos como:
 
-- git status (Para ver el estado del repositorio)
-- git add (Para mandar los cambios al stage)
-- git commit -m "cambios" (Para guardar un commit)
+```git status``` 
 
-  ![Ejemplo](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/eb105ed6-b837-4892-8f5e-f1359b9d7785.jpg)
+ (Para ver el estado del repositorio)
+
+```git add``` 
+ 
+ (Para mandar los cambios al stage)
+
+```git commit -m "cambios"``` 
+
+(Para guardar un commit)
+
+  ![Ejemplo](../images/eb105ed6-b837-4892-8f5e-f1359b9d7785.jpg)
 
 
 Y con esto ya puedes moverte y utilizar tu repositorio local.

@@ -6,14 +6,31 @@ Es un software que te permite ir guardando un historial de los cambios que le va
 ### Navegación y creación de archivos y directorios
 Con GitBash usamos ciertos codigos con los que nos movemos entre una ubicacion del computador a otra y codigos con los que creamos directorios y archivos, entre esos codigos tenemos los siguientes:
 
-- pwd (Para conocer el directorio donde estas)
-- ls (Para mostrar los directorios o archivos que hay)
-- cd nombre del directorio (Para entrar a un directorio)
-- mkdir nombre del directorio (Para crear un directorio)
-- touch nombre del archivo (Para crear un archivo)
-- find . -nombre del archivo (Para buscar un archivo)
+```pwd``` 
 
-  ![Ejemplo de algunos codigos](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/4489591b-09d5-4f1d-8e0c-8f0c0c9386db.jpg)
+(Para conocer el directorio donde estas)
+
+```ls``` 
+
+(Para mostrar los directorios o archivos que hay)
+
+```cd nombre del directorio```
+
+(Para entrar a un directorio)
+
+```mkdir nombre del directorio```
+
+(Para crear un directorio)
+
+```touch nombre del archivo```
+
+(Para crear un archivo)
+
+```find . -nombre del archivo```
+
+(Para buscar un archivo)
+
+  ![Ejemplo de algunos codigos](../images/4489591b-09d5-4f1d-8e0c-8f0c0c9386db.jpg)
 
 
 Estos son los codigos mas basicos para navegar y crear archivos y directorios en tu computador con la ayuda de GitBash.

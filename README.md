@@ -12,13 +12,13 @@ Para ejecutar este trabajo se siguieron los siguientes pasos claves:
 
    git clone URL del repositorio
 
-   ![Ejemplo](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/13b9045a-c23a-45d6-a6a6-5632f47a6b66.jpg)
+   ![Ejemplo](./images/13b9045a-c23a-45d6-a6a6-5632f47a6b66.jpg)
 
 3. Aplique los conocimientos adquiridos en clase para desarrollar todos los puntos del trabajo.
 
 ## Tabla de contenido 
-| docs| 
+|Archivos en la carpeta docs| 
 |--------------|
-|[repositorio_local.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/repositorio_local.md)|
-|[repositorio_remoto.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/repositorio_remoto.md)|
-|[uso_consola.md](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/docs/uso_consola.md)|
+|[Informacion de un repositorio local](./docs/repositorio_local.md)
+|[Informacion de un repositorio remoto](./docs/repositorio_remoto.md)
+|[Conceptos para el uso de la consola](./docs/uso_consola.md)|
