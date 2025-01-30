@@ -13,4 +13,7 @@ Con GitBash usamos ciertos codigos con los que nos movemos entre una ubicacion d
 - touch nombre del archivo (Para crear un archivo)
 - find . -nombre del archivo (Para buscar un archivo)
 
+  ![Ejemplo de algunos codigos](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/4489591b-09d5-4f1d-8e0c-8f0c0c9386db.jpg)
+
+
 Estos son los codigos mas basicos para navegar y crear archivos y directorios en tu computador con la ayuda de GitBash.

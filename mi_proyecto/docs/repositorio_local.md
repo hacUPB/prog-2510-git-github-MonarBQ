@@ -23,4 +23,7 @@ Con esto ya tendras tu repositorio creado y podras empezar a guardar tus cambios
 - git add (Para mandar los cambios al stage)
 - git commit -m "cambios" (Para guardar un commit)
 
+  ![Ejemplo](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/eb105ed6-b837-4892-8f5e-f1359b9d7785.jpg)
+
+
 Y con esto ya puedes moverte y utilizar tu repositorio local.

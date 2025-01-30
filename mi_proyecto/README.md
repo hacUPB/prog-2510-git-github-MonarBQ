@@ -7,6 +7,9 @@ Para ejecutar este trabajo se siguieron los siguientes pasos claves:
 2. Clone el repositorio en mi dispositivo usando el siguiente codigo
 
    git clone URL del repositorio
+
+   ![Ejemplo](~/Documents/prog-2510-git-github-MonarBQ/mi_proyecto/images/13b9045a-c23a-45d6-a6a6-5632f47a6b66.jpg)
+
 3. Aplique los conocimientos adquiridos en clase para desarrollar todos los puntos del trabajo.
 
 ## Tabla de contenido 
